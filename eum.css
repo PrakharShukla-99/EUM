@@ -1,0 +1,390 @@
+
+@media only screen and (max-width: 600px) {
+div#navbarNav {
+    padding-top: 51px;
+    float: right;
+    margin-right: 100px;  
+    }
+.nine{
+	min-height: 160px;
+}
+#Awards p:first-child{
+    font-size: 22px;
+}
+#brochure button{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.first span{
+	margin-left: -25px;
+}
+.third .col-sm-6{
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    border-right: 1px solid #ffcc00;
+}
+                .legacy .col-md-4{
+                	border-bottom:1px dotted #ffcc00 !important;
+                	padding:10px !important; 
+                }
+                .form0{
+                	display: inline-block !important;
+                }
+                .elig{
+                                  font-size: 0.7rem; 
+                                  text-align: center !important;
+                }
+                .form1{
+                	margin-left: unset !important;
+                }
+                .form1 .col{
+                	height: 60px;
+                    padding-left: 0px;
+                }
+                .form1 .col input{
+                	height: 40px;
+                }
+                .form1 .col button{
+                	height: 40px;
+                	color: black;
+                	background: #ffcc00;
+                	padding-top: 1px !important;
+                }
+                .fifth .del{
+                	font-size: 0.8rem !important;
+                	display: inline-block;
+                }
+                .fifth p{
+                	font-size: 0.7rem;
+                 }
+                 .del img{
+                 	height: 30px;
+                 }
+                 .seventh .col{
+                 	display: inline-block;
+                 }
+                 .col-md:first-child{
+                 	padding-top: 0px;
+                 }
+                 .seventh .col-md:last-child{
+                  	border:none;
+                 }
+                 .col-md{
+                 	border-bottom: 1px solid #ffcc00;
+                 	padding-top: 20px;
+                 }
+                 .fifth .asme{
+                 	border: 1px solid #ffcc00;
+                 }
+                 .fifth .asme:first-child{
+                 	margin-bottom: 65px;
+
+                 }
+                 .fifth .asme:last-child{
+                 	margin-bottom: -20px;
+                 	
+                 }
+                 .dark{
+                       border: none !important;
+                 }
+                 .eight p{
+                 	font-size: 0.7rem;
+                 	padding-bottom: 0px;
+                 }
+                 .rich h2{
+                 	font-size: 1.3rem !important;
+                 }
+                 .rich h3,h4{
+                 	font-size: 1rem !important;
+                 }
+                 .rich h2,h3,p{
+                 	margin-bottom: 0px !important;
+                 }
+                 .rich p{
+                    margin-top: -7px !important;
+                 }
+                 .prog h6{
+                 	font-size: 0.7rem;
+                 }
+                 .awards{
+                 	border: 1px dotted #ffcc00;
+
+                 }
+                 .eleven p{
+                 	font-size: 0.7rem;
+                 }
+                 .partner{
+                 	margin-top: -25px;
+                 }
+                 .people div{
+                 	border: 1px dotted black;
+                 }
+                 .people img{
+	    height: 135px !important;
+    width: 135px !important;
+    padding-top: 6px;
+}
+             .info h6{
+             	font-size: 0.7rem !important;
+             }
+             .first img{
+	    height: 70px !important;
+    width: 250px !important;
+    margin-left: -10px;
+}
+             }
+	
+
+@media only screen and (min-width: 600px) and (max-width: 768px){
+    .form1{
+                           padding-left: 112px;
+    }
+    .third .tab{
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+
+    }
+    .partner .col{
+        flex: none;
+        padding: 20px !important;
+
+    }
+    .first button{
+        float: right;
+        margin-top: 11px;
+    }
+    .first .items{
+        float: left;
+    }
+    div#navbarNav {
+    float: left !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px){   
+ .col-md-8 {    
+    flex: 0 0 91.666667% !important;
+    max-width: 91.666667% !important;
+}
+    .form1{
+        margin-left: -120px !important;
+    }
+    b{
+        font-size: 0.7rem;
+    }
+    .first img{
+        margin-left:200px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .first img{
+        width: 200px;
+        height: 200px;
+    }
+    .first a{
+            font-size: 12px;
+    display: table-caption;
+    }
+    .first li{
+    
+    padding: 5px;
+    margin-top: -12px;    
+    }
+    .partner img{
+    border: 1px solid black;
+    max-width: 90%;
+    height: auto;
+}
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px)
+
+.form1 .col input::placeholder{
+	color: black;
+}
+
+.legacy{
+	border: 1px solid #f8b139;
+	padding: 5px !important;
+
+}
+.border_left_right {
+    border-left: 1px solid #ffcc00;
+    border-right: 1px solid #ffcc00;
+}
+.rich{
+	background: #121950; 
+
+}
+.rich h2, h3 {
+    color: #09ffff;
+    font-size: 42px;
+}
+.sticky {
+  position: fixed !important;
+  top: 0 !important;
+  width: 100% !important;
+
+}
+
+.first a{
+	color: black;
+	font-size: 12px;
+	font-weight: 1000;
+	padding-top: 9px;
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: .3rem;
+    padding-left: .3rem;
+    }
+.first img{
+	    height: 74px;
+    width: 96px;
+    padding: 0px;
+    margin-left: -24px;
+}
+div#navbarNav {
+      padding-top: 19px;
+      float: right;
+  }
+	.second {
+    background: #18305d;
+    color: #09ffff;
+    padding-bottom: 50px;
+}
+.second h4{
+	font-size: 30px;
+	padding-top: 12px;
+}
+.second h5{
+        font-size: 15px;
+}
+.third {
+  border: 1px solid #f8b139;
+  text-align: center;
+}
+.fourth{
+	padding-bottom: 20px;
+}
+.third h5{
+	color: white;
+}
+.form0 input{
+	border-radius: 0px;
+	border: 1px solid black;
+	color: black; 
+}
+.fifth{
+            border: 1px solid #f8b139;
+  text-align: center;
+  margin-bottom: 65px;
+
+}
+.seventh img{
+	width: 100px;
+}
+.seventh .logos{
+	font-size: 13px;
+}
+
+.head{
+	font-weight: bold;
+	padding-top: 20px;
+	margin-bottom: 10px;
+
+}
+.aedge{
+	font-size:15px; 
+}
+.eight{
+	background: lightgrey;
+}
+.about{
+	font-weight: bold;
+}
+.nine{
+	color: white;
+	
+
+}
+.nine .stats{
+	color: #f8b139;
+	font-weight:bold;
+	margin-bottom: 0px;
+}
+.ten {
+    background: #2b4f33;
+    color: white;
+}
+.ten p{
+	font-size: 15px;
+}
+.eleven
+{
+	background: #121950;
+	color: white;
+
+}
+.eleven button{
+	background:  #f8b139;
+	border: 0px;
+}
+.partner .col{
+	padding:0px;
+}
+.partner img{
+	border:1px solid black;
+
+}
+.test{
+	background: lightgrey; 
+}
+.test img{
+	width: 100%;
+}
+.people p{
+	font-size: 15px;
+}
+.people img{
+	    height: 166px;
+    width: 166px;
+}
+.info{
+	background: #121950;
+	color: white;
+}
+.info h6{
+	font-weight: 100;
+}
+.info p{
+     margin-bottom: 8px;
+
+}
+.prog h6{
+	font-weight: 300;
+}
+.first .items{
+	margin-left: 0px;
+}
+.first {
+    border-bottom: 1px solid black !important;
+    z-index: 999;
+    display: inline-block !important;
+    width: 100%;
+}
+
+
+
+.peop{
+	border-right: 1px solid black;
+}
+
+.asme:first-child{
+	border-right: 1px solid #ffcc00;
+}
+
+.dis{
+	background-color: black;
+	color: wheat;
+}
